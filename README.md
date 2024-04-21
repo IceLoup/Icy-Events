@@ -1,1 +1,1 @@
-# Icy-Events
+# IcyEvents
